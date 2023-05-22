@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bb0d72ac322e13fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ipp_os/Operating System Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd657c91cb702f98",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minimax.md",
+                "file": "ipp_os/Operating System Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minimax.md"
+                "file": "ipp_os/Operating System Overview.md"
               }
             }
           },
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minimax.md",
+                "file": "ipp_os/Operating System Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,11 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99f642385e02364b",
+  "active": "bb0d72ac322e13fa",
   "lastOpenFiles": [
+    "ipp_os/Operating System Overview.md",
+    "Untitled",
+    "ipp_os",
+    "Minimax.md",
     "Minimax Graphic.png",
     "Pasted image 20230515145158.png",
-    "Minimax.md",
     "Rust/Adding A Crate To Your Coding Environment.md",
     "Working Login Reader.md",
     "Computer Architecture.md",
