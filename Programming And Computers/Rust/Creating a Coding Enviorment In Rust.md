@@ -60,7 +60,7 @@ edition = "2021"
 
 The first line, `[package]`, is a section heading. It indicates that the following lines are configuring a package. As we add more information to this file, we’ll add other sections.
 
-The next three lines set the configuration information Cargo needs to compile your program: the name, the version, and the edition of Rust to use. We’ll talk about the `edition` key in [Appendix E](https://doc.rust-lang.org/book/appendix-05-editions.html).
+The next three lines set the configuration information Cargo needs to compile your program: the name, the version, and the edition of Rust to use.
 
 The last line, `[dependencies]`, is the start of a section for you to list any of your project’s dependencies. In Rust, packages of code are referred to as _crates_. We won’t need any other crates for this project, but we will in the first project in Chapter 2, so we’ll use this dependencies section then.
 

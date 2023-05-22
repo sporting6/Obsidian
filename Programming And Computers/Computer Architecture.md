@@ -1,8 +1,7 @@
 
 ## What is Computer Architecture?
 
-Computer Architecture is a model or description of the structure of a computer. Computer architecture is the combination of [microarchitecture](#Microarchitecture) and [instruction set architecture (**ISA**)](##Instruction%20Set%20Architecture). The
-[**ISA**](##Instruction%20Set%20Architecture) includes the [instructions](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions "Instruction set architecture"), [execution model](https://en.wikipedia.org/wiki/Execution_model "Execution model"), [processor registers](https://en.wikipedia.org/wiki/Processor_register "Processor register"), address and data formats among other things. The [microarchitecture](#Microarchitecture) includes the constituent parts of the processor and how these interconnect and interoperate to implement the [**ISA**](##Instruction%20Set%20Architecture).
+Computer Architecture is a model or description of the structure of a computer. Computer architecture is the combination of [microarchitecture](#Microarchitecture) and [instruction set architecture (**ISA**)](##Instruction%20Set%20Architecture). The [**ISA**](##Instruction%20Set%20Architecture) includes the [instructions](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions "Instruction set architecture"), [execution model](https://en.wikipedia.org/wiki/Execution_model "Execution model"), [processor registers](https://en.wikipedia.org/wiki/Processor_register "Processor register"), address and data formats among other things. The [microarchitecture](#Microarchitecture) includes the constituent parts of the processor and how these interconnect and interoperate to implement the [**ISA**](##Instruction%20Set%20Architecture).
 
 ## Instruction Set Architecture
 
