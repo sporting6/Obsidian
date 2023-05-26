@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming And Computers/Computer Architecture.md",
+                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming And Computers/Computer Architecture.md",
+                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming And Computers/Computer Architecture.md",
+                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming And Computers/Computer Architecture.md"
+                "file": "Programming And Computers/ipp_os/Operating System Overview.md"
               }
             }
           }
@@ -148,11 +148,28 @@
   },
   "active": "8baf2b97c0082e61",
   "lastOpenFiles": [
+    "Screen Shot 2023-05-26 at 3.35.23 PM.png",
+    "Pasted image 20230526153518.png",
+    "Screen Shot 2023-05-26 at 3.33.08 PM.png",
+    "Pasted image 20230526152643.png",
+    "Screen Shot 2023-05-26 at 1.55.43 PM.png",
+    "Screen Shot 2023-05-26 at 1.54.45 PM.png",
+    "Programming And Computers/ipp_os/Operating System Overview.md",
+    "Screen Shot 2023-05-26 at 1.52.05 PM.png",
+    "Pasted image 20230526135207.png",
+    "Pasted image 20230526120301.png",
+    "Screen Shot 2023-05-26 at 1.51.04 PM.png",
+    "Pasted image 20230526135050.png",
+    "Programming And Computers/Working Login Reader.md",
     "Programming And Computers/Minimax.md",
     "Programming And Computers/Computer Architecture.md",
+    "Programming And Computers/Rust/Variables.md",
     "Programming And Computers/Rust/Modules.md",
-    "Programming And Computers/Rust/Adding A Crate To Your Coding Environment.md",
+    "Programming And Computers/Rust/Functions.md",
     "Programming And Computers/Rust/Creating a Coding Enviorment In Rust.md",
+    "Programming And Computers/Rust/Compound Data Types.md",
+    "Programming And Computers/Rust/Adding A Crate To Your Coding Environment.md",
+    "Programming And Computers/ipp_os",
     "Programming And Computers/Rust/Control Flow.md"
   ]
 }
