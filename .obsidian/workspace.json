@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b3f571c19bda6e",
+        "id": "e42ae90ceded8f36",
         "type": "tabs",
         "children": [
           {
-            "id": "8baf2b97c0082e61",
+            "id": "b82bb6e20891dcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
+                "file": "Programming And Computers/Minimax.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,6 +58,16 @@
             }
           },
           {
+            "id": "e8059f4d9b67237a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programming And Computers/ipp_os/Graphics/Stack_Heap.png"
+              }
+            }
+          },
+          {
             "id": "91e80930f8c7720b",
             "type": "leaf",
             "state": {
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
+                "file": "Programming And Computers/Minimax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming And Computers/ipp_os/Operating System Overview.md",
+                "file": "Programming And Computers/Minimax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming And Computers/ipp_os/Operating System Overview.md"
+                "file": "Programming And Computers/Minimax.md"
               }
             }
           }
@@ -146,21 +156,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8baf2b97c0082e61",
+  "active": "5644d9ca4b98ef84",
   "lastOpenFiles": [
-    "Screen Shot 2023-05-26 at 3.35.23 PM.png",
-    "Pasted image 20230526153518.png",
-    "Screen Shot 2023-05-26 at 3.33.08 PM.png",
-    "Pasted image 20230526152643.png",
-    "Screen Shot 2023-05-26 at 1.55.43 PM.png",
-    "Screen Shot 2023-05-26 at 1.54.45 PM.png",
-    "Programming And Computers/ipp_os/Operating System Overview.md",
-    "Screen Shot 2023-05-26 at 1.52.05 PM.png",
-    "Pasted image 20230526135207.png",
-    "Pasted image 20230526120301.png",
-    "Screen Shot 2023-05-26 at 1.51.04 PM.png",
-    "Pasted image 20230526135050.png",
-    "Programming And Computers/Working Login Reader.md",
+    "Programming And Computers/Rust/Working Login Reader.md",
+    "Programming And Computers/Minimax Graphic.png",
+    "Programming And Computers/ipp_os/OS Write Up For Program.md",
+    "IMG_1284.heic",
+    "Programming And Computers/ipp_os/OS Triboard Summary.md",
+    "Programming And Computers/ipp_os/Operating System Overview Packet.md",
+    "Programming And Computers/ipp_os/Graphics/Bump Allocator.png",
+    "Programming And Computers/ipp_os/Graphics/Figure 7.png.sb-77a46cda-Yjpus3",
+    "Programming And Computers/ipp_os/Graphics/Figure 7.png.sb-77a46cda-B3vlor",
+    "Programming And Computers/ipp_os/Graphics/Figure 8.png.sb-77a46cda-2DFE2F",
+    "Programming And Computers/ipp_os/Graphics/Figure 4.png.sb-77a46cda-Dh8z9B",
+    "Programming And Computers/ipp_os/Graphics/Linked List.png.sb-77a46cda-8UzP7Q",
+    "Screen Shot 2023-05-28 at 10.48.45 AM 1.png",
+    "Programming And Computers/ipp_os/Graphics/Linked List Key.png",
+    "Screen Shot 2023-05-28 at 10.47.13 AM.png",
+    "Screen Shot 2023-05-28 at 10.47.47 AM.png",
+    "Programming And Computers/ipp_os/Graphics/Stack_Heap.png",
+    "Programming And Computers/ipp_os/Graphics/Memory Paging.png",
+    "Screen Shot 2023-05-28 at 8.13.37 AM.png",
+    "Programming And Computers/ipp_os/Graphics/VGA Buffer.png",
+    "Screen Shot 2023-05-26 at 1.48.39 PM.png.md",
+    "Screen Shot 2023-05-26 at 1.52.05 PM.png.md",
+    "Programming And Computers/ipp_os/Graphics/Bump Allocator.pdf",
+    "Pasted image 20230526115218.png.md",
+    "Programming And Computers/ipp_os/Graphics",
+    "Programming And Computers/ipp_os/Operating System Overview Booklet.md",
     "Programming And Computers/Minimax.md",
     "Programming And Computers/Computer Architecture.md",
     "Programming And Computers/Rust/Variables.md",
